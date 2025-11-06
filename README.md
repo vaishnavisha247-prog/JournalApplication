@@ -1,0 +1,1 @@
+“This project is a Spring Boot-based REST API connected to MongoDB Atlas cloud database. It supports CRUD operations for journal entries and uses Spring Security for user authentication and password encryption.”
